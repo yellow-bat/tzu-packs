@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "archiver": "^7.0.1",
+    "deepl-node": "^1.22.0",
+    "extract-zip": "^2.0.1"
+  },
+  "name": "tzu-packs",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000t\u0000z\u0000u\u0000-\u0000p\u0000a\u0000c\u0000k\u0000s\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yellow-bat/tzu-packs.git"
+  },
+  "author": "VP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yellow-bat/tzu-packs/issues"
+  },
+  "homepage": "https://github.com/yellow-bat/tzu-packs#readme"
+}

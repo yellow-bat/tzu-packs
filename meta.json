@@ -1,0 +1,120 @@
+[
+    {
+        "packageName": "255 World Flags",
+        "author": "Tzu Master (Autogen)",
+        "cardsAmount": 255,
+        "contentTypes": [
+            "text",
+            "image"
+        ],
+        "url": "https://raw.githubusercontent.com/yellow-bat/tzu-packs/main/packs/255 World Flags.zip"
+    },
+    {
+        "packageName": "Dutch A2 – Common Daily Phrases for Inburgeren",
+        "author": "Tzu Master (OpenAI)",
+        "cardsAmount": 30,
+        "contentTypes": [
+            "text"
+        ],
+        "url": "https://raw.githubusercontent.com/yellow-bat/tzu-packs/main/packs/Dutch A2 – Common Daily Phrases for Inburgeren.zip"
+    },
+    {
+        "packageName": "Dutch A2 – Imperfectum Short Sentences",
+        "author": "Tzu Master (OpenAI)",
+        "cardsAmount": 20,
+        "contentTypes": [
+            "text"
+        ],
+        "url": "https://raw.githubusercontent.com/yellow-bat/tzu-packs/main/packs/Dutch A2 – Imperfectum Short Sentences.zip"
+    },
+    {
+        "packageName": "Dutch A2 – Perfectum Short Sentences",
+        "author": "Tzu Master (OpenAI)",
+        "cardsAmount": 20,
+        "contentTypes": [
+            "text"
+        ],
+        "url": "https://raw.githubusercontent.com/yellow-bat/tzu-packs/main/packs/Dutch A2 – Perfectum Short Sentences.zip"
+    },
+    {
+        "packageName": "Dutch A2-B1 - Civic Integration - Neighborhood, School & Housing",
+        "author": "Tzu Master (OpenAI)",
+        "cardsAmount": 50,
+        "contentTypes": [
+            "text"
+        ],
+        "url": "https://raw.githubusercontent.com/yellow-bat/tzu-packs/main/packs/Dutch A2-B1 - Civic Integration - Neighborhood, School & Housing.zip"
+    },
+    {
+        "packageName": "Dutch B1 - 50 most important words",
+        "author": "Tzu Master (OpenAI)",
+        "cardsAmount": 50,
+        "contentTypes": [
+            "text"
+        ],
+        "url": "https://raw.githubusercontent.com/yellow-bat/tzu-packs/main/packs/Dutch B1 - 50 most important words.zip"
+    },
+    {
+        "packageName": "Dutch B1 – Practical Daily Phrases",
+        "author": "Tzu Master (OpenAI)",
+        "cardsAmount": 30,
+        "contentTypes": [
+            "text"
+        ],
+        "url": "https://raw.githubusercontent.com/yellow-bat/tzu-packs/main/packs/Dutch B1 – Practical Daily Phrases.zip"
+    },
+    {
+        "packageName": "Inburgeren KNM",
+        "author": "Tzu Master (OpenAI)",
+        "cardsAmount": 55,
+        "contentTypes": [
+            "text"
+        ],
+        "url": "https://raw.githubusercontent.com/yellow-bat/tzu-packs/main/packs/Inburgeren KNM.zip"
+    },
+    {
+        "packageName": "Inburgeren Schrijven - Sentences",
+        "author": "Tzu Master (Cascade)",
+        "cardsAmount": 50,
+        "contentTypes": [
+            "text"
+        ],
+        "url": "https://raw.githubusercontent.com/yellow-bat/tzu-packs/main/packs/Inburgeren Schrijven - Sentences.zip"
+    },
+    {
+        "packageName": "Inburgeren Schrijven - Sentences 2",
+        "author": "Tzu Master (Cascade)",
+        "cardsAmount": 50,
+        "contentTypes": [
+            "text"
+        ],
+        "url": "https://raw.githubusercontent.com/yellow-bat/tzu-packs/main/packs/Inburgeren Schrijven - Sentences 2.zip"
+    },
+    {
+        "packageName": "Dutch Words with Examples",
+        "author": "Tzu Master (Cascade)",
+        "cardsAmount": 195,
+        "contentTypes": [
+            "md"
+        ],
+        "url": "https://raw.githubusercontent.com/yellow-bat/tzu-packs/main/packs/Dutch Words with Examples.zip"
+    },
+    {
+        "packageName": "Inburgeren Lezen",
+        "author": "Tzu Master (Cascade)",
+        "cardsAmount": 99,
+        "contentTypes": [
+            "text"
+        ],
+        "url": "https://raw.githubusercontent.com/yellow-bat/tzu-packs/main/packs/Inburgeren Lezen.zip"
+    },
+    {
+        "packageName": "Inburgeren Lezen+",
+        "author": "Tzu Master (Cascade)",
+        "cardsAmount": 140,
+        "contentTypes": [
+            "text"
+        ],
+        "url": "https://raw.githubusercontent.com/yellow-bat/tzu-packs/main/packs/Inburgeren Lezen+.zip"
+    }
+]
