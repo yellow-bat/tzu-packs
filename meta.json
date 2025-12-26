@@ -116,5 +116,32 @@
             "text"
         ],
         "url": "https://raw.githubusercontent.com/yellow-bat/tzu-packs/main/packs/Inburgeren Lezen+.zip"
+    },
+    {
+        "packageName": "Italian B1+ and B2 (incl. examples)",
+        "author": "ChatGPT 5.2",
+        "cardsAmount": 50,
+        "contentTypes": [
+            "md"
+        ],
+        "url": "https://raw.githubusercontent.com/yellow-bat/tzu-packs/main/packs/Italian B1+ and B2 (incl. examples).zip"
+    },
+    {
+        "packageName": "Italian Words B1",
+        "author": "ChatGPT 5.2",
+        "cardsAmount": 121,
+        "contentTypes": [
+            "text"
+        ],
+        "url": "https://raw.githubusercontent.com/yellow-bat/tzu-packs/main/packs/Italian Words B1.zip"
+    },
+    {
+        "packageName": "Italian B1+ and B2 Words",
+        "author": "ChatGPT 5.2",
+        "cardsAmount": 173,
+        "contentTypes": [
+            "text"
+        ],
+        "url": "https://raw.githubusercontent.com/yellow-bat/tzu-packs/main/packs/Italian B1+ and B2 Words.zip"
     }
 ]
